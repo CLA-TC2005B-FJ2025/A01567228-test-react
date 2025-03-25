@@ -15,8 +15,8 @@ function App() {
 
     let mensaje = "Hola";
     if (Math.random() < 0.5 )
-        mensaje = "Hola Mundo" 
-    return <h1>{mensaje}</h1>
+        mensaje = "Joy of programming" 
+    return <h2>{mensaje}</h2>
 }
 
 // 5) Mostrar el componente en la pantalla
