@@ -15,7 +15,7 @@ function App() {
 
     let mensaje = "Hola";
     if (Math.random() < 0.5 )
-        mensaje = "Joy of programming" 
+        mensaje = "I was crazy once" 
     return <h2>{mensaje}</h2>
 }
 
